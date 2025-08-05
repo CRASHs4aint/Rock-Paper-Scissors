@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+h1{
+    background-color: #081b31;
+    color: #fff;
+    height: 5rem;
+    line-height: 5rem;
+    
+}
+
+.choice{
+    height: 225px;
+    width: 225px;
+}
+img{
+    height: 150px;
+    width: 150px;
+    object-fit: cover;
+}
